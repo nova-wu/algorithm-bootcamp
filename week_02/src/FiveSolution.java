@@ -1,3 +1,6 @@
+import java.util.HashSet;
+import java.util.Set;
+
 public class FiveSolution {
 
     public int robotSim(int[] commands, int[][] obstacles) {

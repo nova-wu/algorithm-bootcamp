@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class FourSolution {
 
     public int findContentChildren(int[] g, int[] s) {
